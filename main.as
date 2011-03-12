@@ -8,6 +8,7 @@ package
 		{
 			trace("hej morten");
 			trace("Morten 2");
+			trace("morten3");
 		}
 	}
 }
